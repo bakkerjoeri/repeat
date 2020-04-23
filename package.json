@@ -1,6 +1,6 @@
 {
 	"name": "@bakkerjoeri/repeat",
-	"version": "1.0.0",
+	"version": "0.0.0",
 	"author": "Joeri Bakker <bakkerjoeri@gmail.com>",
 	"license": "MIT",
 	"main": "dist/repeat.js",
